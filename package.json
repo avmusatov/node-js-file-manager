@@ -1,0 +1,24 @@
+{
+  "name": "js-file-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avmusatov/node-js-file-manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avmusatov/node-js-file-manager/issues"
+  },
+  "homepage": "https://github.com/avmusatov/node-js-file-manager#readme",
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
